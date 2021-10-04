@@ -1,0 +1,48 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}%
+\vspace {1em}
+\contentsline {chapter}{Abstract}{ii}{dummy.2}%
+\vspace {1em}
+\contentsline {chapter}{List of Figures}{v}{dummy.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.6}%
+\contentsline {section}{\numberline {1.1}Problem}{2}{section.8}%
+\contentsline {section}{\numberline {1.2}Interesting(Machine Learning solution)}{3}{section.9}%
+\contentsline {subsection}{\numberline {1.2.1}Feature extraction}{4}{subsection.11}%
+\contentsline {section}{\numberline {1.3}Evaluation}{4}{section.13}%
+\contentsline {chapter}{\numberline {2}Background}{6}{chapter.14}%
+\contentsline {section}{\numberline {2.1}Machine Learning}{6}{section.15}%
+\contentsline {section}{\numberline {2.2}Affine transformation}{6}{section.16}%
+\contentsline {subsection}{\numberline {2.2.1}Neural network}{7}{subsection.17}%
+\contentsline {subsection}{\numberline {2.2.2}CNN(Convolutional Neural Network)}{8}{subsection.20}%
+\contentsline {subsection}{\numberline {2.2.3}Transfer learning}{10}{subsection.23}%
+\contentsline {section}{\numberline {2.3}SIFT and RANSAC}{10}{section.25}%
+\contentsline {section}{\numberline {2.4}Image Alignment}{11}{section.28}%
+\contentsline {chapter}{\numberline {3}Dataset}{14}{chapter.30}%
+\contentsline {section}{\numberline {3.1}API}{14}{section.31}%
+\contentsline {section}{\numberline {3.2}Image}{15}{section.33}%
+\contentsline {section}{\numberline {3.3}Training data}{15}{section.35}%
+\contentsline {section}{\numberline {3.4}CSV File}{16}{section.37}%
+\contentsline {section}{\numberline {3.5}Format}{17}{section.38}%
+\contentsline {chapter}{\numberline {4}The Model}{18}{chapter.40}%
+\contentsline {section}{\numberline {4.1}Model}{18}{section.41}%
+\contentsline {section}{\numberline {4.2}Input and output}{19}{section.43}%
+\contentsline {section}{\numberline {4.3}Required label}{19}{section.45}%
+\contentsline {section}{\numberline {4.4}Learning}{20}{section.46}%
+\contentsline {chapter}{\numberline {5}Results}{24}{chapter.52}%
+\contentsline {section}{\numberline {5.1}Training}{24}{section.53}%
+\contentsline {subsection}{\numberline {5.1.1}Training data}{24}{subsection.54}%
+\contentsline {subsection}{\numberline {5.1.2}Loss function}{25}{subsection.55}%
+\contentsline {subsection}{\numberline {5.1.3}Implement detail}{25}{subsection.56}%
+\contentsline {section}{\numberline {5.2}Experiment result}{25}{section.57}%
+\contentsline {subsection}{\numberline {5.2.1}Machine learning results}{26}{subsection.58}%
+\contentsline {subsection}{\numberline {5.2.2}SIFT and RANSAC}{27}{subsection.62}%
+\contentsline {subsection}{\numberline {5.2.3}Manual}{29}{subsection.66}%
+\contentsline {section}{\numberline {5.3}Result}{30}{section.70}%
+\contentsline {chapter}{\numberline {6}Observations and Conclusions}{31}{chapter.71}%
+\contentsline {section}{\numberline {6.1}Further research}{31}{section.72}%
+\contentsline {subsection}{\numberline {6.1.1}Data}{31}{subsection.73}%
+\contentsline {subsection}{\numberline {6.1.2}Model}{32}{subsection.76}%
+\contentsline {subsubsection}{\numberline {6.1.2.1}Loss function}{33}{subsubsection.77}%
+\contentsline {section}{\numberline {6.2}Conclusion}{34}{section.78}%
+\vspace {2em}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{35}{dummy.79}%

@@ -1,0 +1,166 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rocco et~al.(2017)Rocco, Arandjelovi\'c, and Sivic]{Rocco17}
+I.~Rocco, R.~Arandjelovi\'c, and J.~Sivic.
+\newblock Convolutional neural network architecture for geometric matching.
+\newblock In \emph{{Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}}, 2017.
+
+\bibitem[Simonyan and Zisserman(2014)]{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock \emph{arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem[Kr{\"o}se et~al.(1993)Kr{\"o}se, Krose, van~der Smagt, and
+  Smagt]{krose1993introduction}
+Ben Kr{\"o}se, Ben Krose, Patrick van~der Smagt, and Patrick Smagt.
+\newblock An introduction to neural networks.
+\newblock 1993.
+
+\bibitem[Nair and Hinton(2010)]{nair2010proceedings}
+V~Nair and GE~Hinton.
+\newblock Proceedings of the 27th international conference on machine learning
+  (icml-10), 2010.
+
+\bibitem[Wu(2017)]{wu2017introduction}
+Jianxin Wu.
+\newblock Introduction to convolutional neural networks.
+\newblock \emph{National Key Lab for Novel Software Technology. Nanjing
+  University. China}, 5:\penalty0 23, 2017.
+
+\bibitem[cnn()]{cnn}
+{A Beginner's Guide To Understanding Convolutional Neural Networks} adit
+  deshpande.
+\newblock
+  \url{https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/}.
+\newblock Accessed: 2016-07-20.
+
+\bibitem[TL()]{TL}
+{Image Classification using Transfer Learning in PyTorch} sunita nayak.
+\newblock
+  \url{https://www.learnopencv.com/image-classification-using-transfer-learning-in-pytorch/}.
+\newblock Accessed: 2019-05-20.
+
+\bibitem[OpenCV()]{sift_cv}
+OpenCV.
+\newblock Introduction to sift (scale-invariant feature transform).
+\newblock
+  \url{https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_sift_intro/py_sift_intro.html}.
+
+\bibitem[scikit image()]{ransac_ski}
+scikit image.
+\newblock Robust matching using ransac.
+\newblock
+  \url{https://scikit-image.org/docs/dev/auto_examples/transform/plot_matching.html}.
+
+\bibitem[Rosebrock()]{vgg_arch}
+Adrian Rosebrock.
+\newblock Imagenet: Vggnet, resnet, inception, and xception with keras.
+\newblock
+  \url{https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/}.
+\newblock Accessed: March 20, 2017.
+
+\bibitem[Rocco17()]{cnngeometric_pytorch}
+Rocco17.
+\newblock Cnngeometric pytorch implementation.
+\newblock \url{https://github.com/ignacio-rocco/cnngeometric_pytorch}.
+
+\bibitem[Rocco et~al.(2018)Rocco, Arandjelovi\'c, and Sivic]{Rocco18}
+I.~Rocco, R.~Arandjelovi\'c, and J.~Sivic.
+\newblock Convolutional neural network architecture for geometric matching.
+\newblock \emph{{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}}, \penalty0 (41):\penalty0 2553--2567, 2018.
+
+\bibitem[Fischler and Bolles(1981)]{fischler1981random}
+Martin~A Fischler and Robert~C Bolles.
+\newblock Random sample consensus: a paradigm for model fitting with
+  applications to image analysis and automated cartography.
+\newblock \emph{Communications of the ACM}, 24\penalty0 (6):\penalty0 381--395,
+  1981.
+
+\bibitem[Forsyth and Ponce(2002)]{forsyth2002computer}
+David~A Forsyth and Jean Ponce.
+\newblock \emph{Computer vision: a modern approach}.
+\newblock Prentice Hall Professional Technical Reference, 2002.
+
+\bibitem[Mikolajczyk and Schmid(2004)]{mikolajczyk2004scale}
+Krystian Mikolajczyk and Cordelia Schmid.
+\newblock Scale \& affine invariant interest point detectors.
+\newblock \emph{International journal of computer vision}, 60\penalty0
+  (1):\penalty0 63--86, 2004.
+
+\bibitem[Lowe(2004)]{lowe2004distinctive}
+David~G Lowe.
+\newblock Distinctive image features from scale-invariant keypoints.
+\newblock \emph{International journal of computer vision}, 60\penalty0
+  (2):\penalty0 91--110, 2004.
+
+\bibitem[Svoboda et~al.(2007)Svoboda, Kybic, and Hlavac]{svoboda2007image}
+Tomas Svoboda, Jan Kybic, and Vaclav Hlavac.
+\newblock \emph{Image processing, analysis \& and machine vision-a MATLAB
+  companion}.
+\newblock Thomson Learning, 2007.
+
+\bibitem[LeCun et~al.(1989)LeCun, Boser, Denker, Henderson, Howard, Hubbard,
+  and Jackel]{lecun1989backpropagation}
+Yann LeCun, Bernhard Boser, John~S Denker, Donnie Henderson, Richard~E Howard,
+  Wayne Hubbard, and Lawrence~D Jackel.
+\newblock Backpropagation applied to handwritten zip code recognition.
+\newblock \emph{Neural computation}, 1\penalty0 (4):\penalty0 541--551, 1989.
+
+\bibitem[Goodfellow et~al.(2016)Goodfellow, Bengio, and
+  Courville]{goodfellow2016deep}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock Deep learning. book in preparation for mit press.
+\newblock \emph{URL!` http://www. deeplearningbook. org}, 1, 2016.
+
+\bibitem[Pratt and Thrun(1997)]{pratt1997second}
+Lorien Pratt and Sebastian Thrun.
+\newblock Second special issue on inductive transfer-guest editors'
+  introduction, 1997.
+
+\bibitem[Lowe(1999)]{lowe1999object}
+David~G Lowe.
+\newblock Object recognition from local scale-invariant features.
+\newblock In \emph{Proceedings of the seventh IEEE international conference on
+  computer vision}, volume~2, pages 1150--1157. Ieee, 1999.
+
+\bibitem[Brown and Lowe(2007)]{brown2007automatic}
+Matthew Brown and David~G Lowe.
+\newblock Automatic panoramic image stitching using invariant features.
+\newblock \emph{International journal of computer vision}, 74\penalty0
+  (1):\penalty0 59--73, 2007.
+
+\bibitem[Bradski and Kaehler(2000)]{bradski2000opencv}
+Gary Bradski and Adrian Kaehler.
+\newblock Opencv.
+\newblock \emph{Dr. Dobb’s journal of software tools}, 3, 2000.
+
+\bibitem[Dai et~al.(2016)Dai, Li, He, and Sun]{dai2016r}
+Jifeng Dai, Yi~Li, Kaiming He, and Jian Sun.
+\newblock R-fcn: Object detection via region-based fully convolutional
+  networks.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  379--387, 2016.
+
+\bibitem[wikipedia()]{mse}
+wikipedia.
+\newblock Mean squared error.
+\newblock \url{https://en.wikipedia.org/wiki/Mean_squared_error}.
+
+\bibitem[Pytorch()]{pytorch}
+Pytorch.
+\newblock Pytorch.
+\newblock \url{https://pytorch.org/}.
+
+\bibitem[Kingma and Ba(2014)]{kingma2014adam}
+Diederik~P Kingma and Jimmy Ba.
+\newblock Adam: A method for stochastic optimization.
+\newblock \emph{arXiv preprint arXiv:1412.6980}, 2014.
+
+\end{thebibliography}
